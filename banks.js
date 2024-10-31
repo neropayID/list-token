@@ -1,4 +1,4 @@
-const bankNames = [
+[
   { id: 1, name: 'Mandiri' },
   { id: 2, name: 'BRI' },
   { id: 3, name: 'BNI' },
